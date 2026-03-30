@@ -53,15 +53,17 @@ Atualizações antigas do Windows)
 
 17. **systeminfo** (serve para exibir informações detalhadas e abrangentes sobre a configuração de hardware e software do computador.)
 
-18. **git clone (link)** (serve para copiar um repositório remoto inteiro para o seu computador)
+## GIT HUB (TERMINAL)
 
-19. **git status** (Mostra o estado atual do seu projeto)
+19. **git clone (link)** (serve para copiar um repositório remoto inteiro para o seu computador)
 
-20. **git add "nome do arquivo"** (Serve para preparar um arquivo para ser salvo (commit))
+20. **git status** (Mostra o estado atual do seu projeto)
 
-21. **git commit -m "descrição"** (Salva as alterações no histórico)
+21. **git add "nome do arquivo"** (Serve para preparar um arquivo para ser salvo (commit))
 
-22. **git push** (Envia seus commits para o repositório remoto (tipo no GitHub))
+22. **git commit -m "descrição"** (Salva as alterações no histórico)
+
+23. **git push** (Envia seus commits para o repositório remoto (tipo no GitHub))
   
 24. **git pull** (Atualiza seu projeto com as mudanças do repositório remoto)
 
