@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file:///C:/Users/ALUNO/Downloads/bannergit.png.png" alt="Banner" width="100%" />
+  <img src="C:/Users/ALUNO/Downloads/bannergit.png.png" alt="Banner" width="100%" />
 </p>
 ## COMANDOS GIT BASH
 
