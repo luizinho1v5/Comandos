@@ -1,4 +1,4 @@
-![Banner](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/faf904ce-0dfd-4d57-b378-c4810af7afd8" />)
+![Banner]()
 ## COMANDOS GIT BASH
 
 1. *git config --list = comando que lista as configurações do git bash*
@@ -34,35 +34,35 @@
 9. *cd/ = volta pro primeiro disco*
  
 10. *explorer = abre pasta do Windows*
- 
-11. *obs (tab ajuda a pesquisar)*
 
-12. *chkdsk = O chkdsk é um comando que verifica e corrige erros no disco rígido (HD ou SSD)*
+11. *chkdsk = O chkdsk é um comando que verifica e corrige erros no disco rígido (HD ou SSD)*
 
-13. *SFC /SCANNOW = Verifica arquivos protegidos do sistema e corrige automaticamente os que estiverem corrompidos, danificados ou ausentes*
+12. *SFC /SCANNOW = Verifica arquivos protegidos do sistema e corrige automaticamente os que estiverem corrompidos, danificados ou ausentes*
 
-14. *cleanmgr = abre a ferramenta de Limpeza de Disco do Windows. Remove arquivos desnecessários como:
+13. *cleanmgr = abre a ferramenta de Limpeza de Disco do Windows. Remove arquivos desnecessários como:
 Temporários,
 Cache,
 Lixeira,
 Atualizações antigas do Windows*
 
-15. *regedit = Comando para acessar o registro do computador*
+14. *regedit = Comando para acessar o registro do computador*
 
-16. *driverquery = Lista os drivers instalados no Windows*
+15. *driverquery = Lista os drivers instalados no Windows*
 
-17. *systeminfo = serve para exibir informações detalhadas e abrangentes sobre a configuração de hardware e software do computador.*
+16. *systeminfo = serve para exibir informações detalhadas e abrangentes sobre a configuração de hardware e software do computador.*
 
-18. 6. *git clone (link) = serve para copiar um repositório remoto inteiro para o seu computador*
+17. 6. *git clone (link) = serve para copiar um repositório remoto inteiro para o seu computador*
 
-19. *git status = Mostra o estado atual do seu projeto*
+18. *git status = Mostra o estado atual do seu projeto*
 
-20. *git add "nome do arquivo" = Serve para preparar um arquivo para ser salvo (commit)*
+19. *git add "nome do arquivo" = Serve para preparar um arquivo para ser salvo (commit)*
 
-21. *git commit -m "descrição" = Salva as alterações no histórico*
+20. *git commit -m "descrição" = Salva as alterações no histórico*
 
-22. *git push = Envia seus commits para o repositório remoto (tipo no GitHub)*
+21. *git push = Envia seus commits para o repositório remoto (tipo no GitHub)*
 
-23. *git pull = Atualiza seu projeto com as mudanças do repositório remoto*
+22. *git pull = Atualiza seu projeto com as mudanças do repositório remoto*
+
+23. ### *obs (tab ajuda a pesquisar)*
 
 
