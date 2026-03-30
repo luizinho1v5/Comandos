@@ -1,4 +1,4 @@
-# COMANDOS
+![Banner](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/faf904ce-0dfd-4d57-b378-c4810af7afd8" />)
 ## COMANDOS GIT BASH
 
 1. *git config --list = comando que lista as configurações do git bash*
