@@ -1,4 +1,4 @@
-![Banner](file:///C:/Users/ALUNO/Downloads/bannergit.png.png)
+![Banner](bannergit.png.png)
 ## COMANDOS GIT BASH
 
 1. *git config --list = comando que lista as configurações do git bash*
