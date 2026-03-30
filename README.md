@@ -17,54 +17,54 @@
 
 ## TERMINAL
 
-1.  **clear** = limpa
+1.  **clear** (limpa)
  
-2.  **cls** = limpa cmd
+2.  **cls** (limpa cmd)
 
-3.  **cd** = escolhe pasta
+3.  **cd** (escolhe pasta)
  
-4.  **cd..** = volta pasta
+4.  **cd..** (volta pasta)
  
-5.  **mkdir** = cria diretório
+5.  **mkdir** (cria diretório)
  
-6.  **rmdir** = apaga pasta vazia
+6.  **rmdir** (apaga pasta vazia
  
-7.  **tree** = busca subpastas
+7.  **tree** (busca subpastas)
  
-8.  **edit** = pode editar arquivos executáveis(ex : texto)
+8.  **edit** (pode editar arquivos executáveis ex : texto)
  
-9.  **cd/** = volta pro primeiro disco
+9.  **cd/** (volta pro primeiro disco)
  
-10. **explorer** = abre pasta do Windows
+10. **explorer** (abre pasta do Windows)
 
-12. **chkdsk** = O chkdsk é um comando que verifica e corrige erros no disco rígido (HD ou SSD)
+12. **chkdsk** (O chkdsk é um comando que verifica e corrige erros no disco rígido (HD ou SSD))
 
-13. **SFC /SCANNOW** = Verifica arquivos protegidos do sistema e corrige automaticamente os que estiverem corrompidos, danificados ou ausentes
+13. **SFC /SCANNOW** (Verifica arquivos protegidos do sistema e corrige automaticamente os que estiverem corrompidos, danificados ou ausentes)
 
-14. **cleanmgr** = abre a ferramenta de Limpeza de Disco do Windows. Remove arquivos desnecessários como:
+14. **cleanmgr** (abre a ferramenta de Limpeza de Disco do Windows. Remove arquivos desnecessários como:
 Temporários,
 Cache,
 Lixeira,
-Atualizações antigas do Windows
+Atualizações antigas do Windows)
 
-15. **regedit** = Comando para acessar o registro do computador
+15. **regedit** (Comando para acessar o registro do computador)
 
-16. **driverquery** = Lista os drivers instalados no Windows
+16. **driverquery** (Lista os drivers instalados no Windows)
 
-17. **systeminfo** = serve para exibir informações detalhadas e abrangentes sobre a configuração de hardware e software do computador.
+17. **systeminfo** (serve para exibir informações detalhadas e abrangentes sobre a configuração de hardware e software do computador.)
 
-18. **git clone (link)** = serve para copiar um repositório remoto inteiro para o seu computador
+18. **git clone (link)** (serve para copiar um repositório remoto inteiro para o seu computador)
 
-19. **git status** = Mostra o estado atual do seu projeto
+19. **git status** (Mostra o estado atual do seu projeto)
 
-20. **git add "nome do arquivo"** = Serve para preparar um arquivo para ser salvo (commit)
+20. **git add "nome do arquivo"** (Serve para preparar um arquivo para ser salvo (commit))
 
-21. **git commit -m "descrição"** = Salva as alterações no histórico
+21. **git commit -m "descrição"** (Salva as alterações no histórico)
 
-22. **git push** = Envia seus commits para o repositório remoto (tipo no GitHub)
+22. **git push** (Envia seus commits para o repositório remoto (tipo no GitHub))
+  
+24. **git pull** (Atualiza seu projeto com as mudanças do repositório remoto)
 
-23. **git pull** = Atualiza seu projeto com as mudanças do repositório remoto
-
-24. ### **obs** (tab ajuda a pesquisar)
+25. ### **obs** (tab ajuda a pesquisar)
 
 
