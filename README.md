@@ -1,4 +1,6 @@
-![Banner](file:///C:/Users/ALUNO/Downloads/bannergit.png.png)
+<p align="center">
+  <img src="file:///C:/Users/ALUNO/Downloads/bannergit.png.png" alt="Banner" width="100%" />
+</p>
 ## COMANDOS GIT BASH
 
 1. *git config --list = comando que lista as configurações do git bash*
